@@ -1,4 +1,4 @@
-# Zachary Jewel Schmitz
+# Zachary S.
 # Chris Caldwell
 # CPSC 1071: Section 001
 # 22 November 2021

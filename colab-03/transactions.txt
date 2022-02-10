@@ -1,0 +1,4 @@
+10/1/2020 Local_Branch 10000 Deposit
+10/2/2020 Chick-Fil-A -7.99 Restaurant
+10/3/2020 IHOP 19.32 Restaurant
+10/4/2020 Clemson-ATM 50 Deposit
